@@ -1,0 +1,18 @@
+#configuration of global settings for gitbash
+#user name
+git config --global user.name "{username}"
+#email add
+git config --global user.email {email}
+#set up default branch
+git config --global init.default main
+#help info
+git config -h
+#help manual
+git help config
+
+#turn directory into repository
+git init
+
+#add a file to track
+git add {file name}
+
