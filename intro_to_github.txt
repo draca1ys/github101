@@ -37,3 +37,4 @@ organization roles: owners, members, moderators, billing managers, security mana
 
 The amount and frequency at which you write code is not the bar by which software development is measured. It is true that the more you practice, the better you will be, but the practice you do must be deliberate. 
 
+d
